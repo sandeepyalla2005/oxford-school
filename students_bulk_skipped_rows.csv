@@ -1,0 +1,10 @@
+sheet_name,row_number,reason,admission_number,student_name,class_value,roll_number,date_of_birth,father_name,father_mobile,mother_name,mother_mobile,parent_email,address,student_type,date_of_joining,total_fees,books,transport,old_dues,aadhaar
+UKG,5,Missing Admission Number,,Koththu Jyoshna,UKG,4,18-12-2020,R. Daling,9556021244,R. Lakshmi,,,,New,,,Yes,No,,
+UKG,6,Missing Admission Number,,D. Harshini Sree,UKG,5,05-12-2020,D. Chinna,7330839418,D. Kalpana,9030282018,,"KRM Colony, Madhilapalem",New,12-06-2025,16000,Yes,No,,
+UKG,11,Missing Admission Number,,Bogila Goutham,UKG,10,03-12-2019,,,B. Narayana,9490939569,,"Jayanthi VTC, Vizag",New,,15000,Yes,No,,
+UKG,12,Missing Admission Number,,Josyala Kane Swara Jaya Vardhan Sharma,UKG,11,13-01-2021,J.A.N.J.N Anjani Kumar,7416740161,J. Sai Moumika,7416325635,,"Bujyabhai, Vizag",New,06-10-2025,7500,Yes,No,,
+Class 3,6,Missing Admission Number,,S.Srivalli,class3,5,Sun Oct 08 2017 23:59:50 GMT+0530 (India Standard Time),Hari babu,9094553246,sudeshna,9940336871,,nri hosppppital,new,Fri Dec 05 2025 23:59:50 GMT+0530 (India Standard Time),25000,yes,no,,
+Class 4,13,Missing Admission Number,,R.Rahul,class4,12,,simhachalam,7337295619,uma,7842873443,,kranthinagar,old,,18000,yes,yes auto,2000,
+Class 5,5,Missing Admission Number,,R.Roshitha priya,5,4,3/52015,bujji,,ramya,8309067001,,"ff3,sowbhagya resince,seethsmadhara",new,16/06/25,26000,yes,no,,752989002797
+Class 5,19,Missing Admission Number,,V.SUHAS,5,18,,BAL BHASKAR,8433630988,adilakshmi,9989955485,,jalaraveedhi,,Sat Jun 07 2025 23:59:50 GMT+0530 (India Standard Time),20000,yes,yes,,
+Class 9,2,Missing Admission Number,,B.Hyamavathi,9,1,Sat Dec 03 2011 23:59:50 GMT+0530 (India Standard Time),varala babu,8886794789,varalakshmi,,,raghavendra hospital seethamadhara,new,16.6.25,26000,yes,no,,363740833553
